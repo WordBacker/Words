@@ -1,265 +1,222 @@
 [
   {
-    "spelling" : "aseptic",
-    "soundMark" : "[ˌeɪ'septɪk]",
-    "chineseMeaning" : "adj. 无菌的；防感染的；冷漠的; n. 防腐剂;  ",
-    "examples" : [
-      "Sterile equipment and aseptic sampling techniques shall be used when necessary.",
-      "She gave me an aseptic smile."
-    ]
-  },
-  {
-    "spelling" : "contaminate",
-    "soundMark" : "[kən'tæməˌneɪt]",
-    "chineseMeaning" : "vt. 弄脏；污染;  ",
-    "examples" : [
-      "Contaminate your bed, and you will one night suffocate in your own waste.",
-      "All over the world, oil spills regularly contaminate coasts."
-    ]
-  },
-  {
-    "spelling" : "aseptic",
-    "soundMark" : "[ˌeɪ'septɪk]",
-    "chineseMeaning" : "adj. 无菌的；防感染的；冷漠的; n. 防腐剂;  ",
-    "examples" : [
-      "Sterile equipment and aseptic sampling techniques shall be used when necessary.",
-      "She gave me an aseptic smile."
-    ]
-  },
-  {
-    "spelling" : "discretionary",
-    "soundMark" : "[dɪ'skreʃəneri]",
-    "chineseMeaning" : "adj. 自由裁量的；任意的， 自由决定的，酌情行事的， 便宜行事的;  ",
-    "examples" : [
-      "The enactment of this regulation gives us discretionary power.",
-      "The judge has the power to make discretionary awards.",
-      "You may be eligible for a discretionary grant for your university course."
-    ]
-  },
-  {
-    "spelling" : "discretionary",
-    "soundMark" : "[dɪ'skreʃəneri]",
-    "chineseMeaning" : "adj. 自由裁量的；任意的， 自由决定的，酌情行事的， 便宜行事的;  ",
-    "examples" : [
-      "The enactment of this regulation gives us discretionary power.",
-      "The judge has the power to make discretionary awards.",
-      "You may be eligible for a discretionary grant for your university course."
-    ]
-  },
-  {
-    "spelling" : "dexterous",
-    "soundMark" : "['dekstrəs]",
-    "chineseMeaning" : "adj. 灵巧的；机灵的；惯用右手的;  =dextrous.;  ",
-    "examples" : [
-      "A good pianist must be dexterous.",
-      "The manager was dexterous in handling his staff.",
-      "The English Minister can often gain a point by dexterous dealing in Parliament."
-    ]
-  },
-  {
-    "spelling" : "dexterous",
-    "soundMark" : "['dekstrəs]",
-    "chineseMeaning" : "adj. 灵巧的；机灵的；惯用右手的;  =dextrous.;  ",
-    "examples" : [
-      "A good pianist must be dexterous.",
-      "The manager was dexterous in handling his staff.",
-      "The English Minister can often gain a point by dexterous dealing in Parliament."
-    ]
-  },
-  {
-    "spelling" : "intrinsic",
-    "soundMark" : "[ɪn'trɪnsɪk]",
-    "chineseMeaning" : "adj. 内在的；固有的；本质的;  ",
-    "examples" : [
-      "You have a natural and intrinsic talent and skill.",
-      "These difficulties are intrinsic to such a situation",
-      "The intrinsic worth of the pen is 30 yuan."
-    ]
-  },
-  {
-    "spelling" : "intrinsic",
-    "soundMark" : "[ɪn'trɪnsɪk]",
-    "chineseMeaning" : "adj. 内在的；固有的；本质的;  ",
-    "examples" : [
-      "You have a natural and intrinsic talent and skill.",
-      "These difficulties are intrinsic to such a situation",
-      "The intrinsic worth of the pen is 30 yuan."
-    ]
-  },
-  {
-    "spelling" : "foster",
-    "soundMark" : "['fɔːstər]",
-    "chineseMeaning" : "vt. 领养；培养；促进；鼓励；抱有（希望等）; adj. 收养的;  ",
-    "examples" : [
-      "People who cannot have a baby of their own sometimes foster (a child).",
-      "It is very important to foster an interest.",
-      "The mother tried to foster her son's interest in music.",
-      "Foster students'use of various thinking strategies.",
-      "We should foster capital investment in areas needing development.",
-      "I know that she fosters a secret hope."
-    ]
-  },
-  {
-    "spelling" : "foster",
-    "soundMark" : "['fɔːstər]",
-    "chineseMeaning" : "vt. 领养；培养；促进；鼓励；抱有（希望等）; adj. 收养的;  ",
-    "examples" : [
-      "People who cannot have a baby of their own sometimes foster (a child).",
-      "It is very important to foster an interest.",
-      "The mother tried to foster her son's interest in music.",
-      "Foster students'use of various thinking strategies.",
-      "We should foster capital investment in areas needing development.",
-      "I know that she fosters a secret hope."
-    ]
-  },
-  {
-    "spelling" : "mercurial",
-    "soundMark" : "[mɜːr'kjʊriəl]",
-    "chineseMeaning" : "adj. 善变的；活泼的；水银的；[天文]水星的; n. 水银剂;  ",
-    "examples" : [
-      "Our desires and aversions are mercurial rulers.",
-      "He was of a mercurial temperament and therefore unpredictable.",
-      "She has a mercurial turn of conversation.",
-      "A mercurial barometer has a glass tube a little more than 30 inches long."
-    ]
-  },
-  {
-    "spelling" : "mercurial",
-    "soundMark" : "[mɜːr'kjʊriəl]",
-    "chineseMeaning" : "adj. 善变的；活泼的；水银的；[天文]水星的; n. 水银剂;  ",
-    "examples" : [
-      "Our desires and aversions are mercurial rulers.",
-      "He was of a mercurial temperament and therefore unpredictable.",
-      "She has a mercurial turn of conversation.",
-      "A mercurial barometer has a glass tube a little more than 30 inches long."
-    ]
-  },
-  {
-    "spelling" : "lethal",
-    "soundMark" : "['liːθl]",
-    "chineseMeaning" : "adj. 致命的；危险的；有效的;  ",
-    "examples" : [
-      "Pot-holes can be lethal for the unwary cyclist.",
-      "In situation like this, she wish she have a gun or some lethal weapon.",
-      "It was a potentially lethal mixture of drugs.",
-      "This time it was covered in snow and ice and in a lethal condition.",
-      "They were a lethal partnership, scoring 43 goals between them."
-    ]
-  },
-  {
-    "spelling" : "lethal",
-    "soundMark" : "['liːθl]",
-    "chineseMeaning" : "adj. 致命的；危险的；有效的;  ",
-    "examples" : [
-      "Pot-holes can be lethal for the unwary cyclist.",
-      "In situation like this, she wish she have a gun or some lethal weapon.",
-      "It was a potentially lethal mixture of drugs.",
-      "This time it was covered in snow and ice and in a lethal condition.",
-      "They were a lethal partnership, scoring 43 goals between them."
-    ]
-  },
-  {
-    "spelling" : "nip",
-    "soundMark" : "[nɪp]",
-    "chineseMeaning" : "v. 夹；咬；捏；剪断；冻伤；阻止；偷；快速行动; v. 小饮; n. 捏；夹；咬；寒冷; n. 少量；小口（尤指烈酒）;  ",
-    "examples" : [
-      "I nipped my finger in the door.",
-      "The dog nipped the postman on the leg.",
-      "Don't nip any stalks off the plant.",
-      "The icy breeze nipped the young blooms.",
-      "She wanted to be an actress, but her father soon nipped that idea in the bud.",
-      "They never lost a chance to nip at him or steal his possessions."
-    ]
-  },
-  {
-    "spelling" : "nip",
-    "soundMark" : "[nɪp]",
-    "chineseMeaning" : "v. 夹；咬；捏；剪断；冻伤；阻止；偷；快速行动; v. 小饮; n. 捏；夹；咬；寒冷; n. 少量；小口（尤指烈酒）;  ",
-    "examples" : [
-      "I nipped my finger in the door.",
-      "The dog nipped the postman on the leg.",
-      "Don't nip any stalks off the plant.",
-      "The icy breeze nipped the young blooms.",
-      "She wanted to be an actress, but her father soon nipped that idea in the bud.",
-      "They never lost a chance to nip at him or steal his possessions."
-    ]
-  },
-  {
-    "spelling" : "penchant",
-    "soundMark" : "['pentʃənt]",
-    "chineseMeaning" : "n. 喜好(倾向);  ",
+    "spelling" : "abash",
+    "soundMark" : "[ə'bæʃ]",
+    "chineseMeaning" : "vt. 使羞愧；使困窘;  ",
     "examples" : [
 
     ]
   },
   {
-    "spelling" : "penchant",
-    "soundMark" : "['pentʃənt]",
-    "chineseMeaning" : "n. 喜好(倾向);  ",
+    "spelling" : "abate",
+    "soundMark" : "[ə'beɪt]",
+    "chineseMeaning" : "v. 缓和；减弱；消除;  ",
+    "examples" : [
+      "She is trying to abate the tension between her parents.",
+      "The ship sailed when the storm abated.",
+      "Nothing can abate the force of that argument.",
+      "We must abate the smoke nuisance in our big cities."
+    ]
+  },
+  {
+    "spelling" : "bootless",
+    "soundMark" : "['buːtlɪs]",
+    "chineseMeaning" : "adj. 无用的；无益的;  ",
     "examples" : [
 
     ]
   },
   {
-    "spelling" : "placate",
-    "soundMark" : "['pleɪkeɪt]",
-    "chineseMeaning" : "v. 抚慰；平息；和解;  ",
+    "spelling" : "brash",
+    "soundMark" : "[bræʃ]",
+    "chineseMeaning" : "adj. 鲁莽的；自以为是的；无礼的；俗气的；易碎的; n. 胃灼热；骤雨；碎石堆;  ",
     "examples" : [
-      "His intent is clearly not to placate his critics.",
-      "The concessions did little to placate the students."
+      "His brash answers annoyed the interviewers.",
+      "Don't you think that suit's a bit brash for a funeral?",
+      "He was wearing a rather brash tie."
     ]
   },
   {
-    "spelling" : "placate",
-    "soundMark" : "['pleɪkeɪt]",
-    "chineseMeaning" : "v. 抚慰；平息；和解;  ",
+    "spelling" : "eclat",
+    "soundMark" : "[eɪ'klaː]",
+    "chineseMeaning" : "n.  巨大成功； 喝彩； 坏名声;  ",
     "examples" : [
-      "His intent is clearly not to placate his critics.",
-      "The concessions did little to placate the students."
+
     ]
   },
   {
-    "spelling" : "peer",
-    "soundMark" : "[pɪr]",
-    "chineseMeaning" : "n. 同辈；同等的人；贵族; vi. 凝视；窥视;  ",
+    "spelling" : "ecstasy",
+    "soundMark" : "['ekstəsi]",
+    "chineseMeaning" : "n. 狂喜；入迷;  Ecstasy.; n. 摇头丸;  ",
     "examples" : [
-      "Children are easily influenced by their peers.",
-      "He was valued by both his peer and his superiors.",
-      "The opinions of his peers are more important to him than his parents' ideas.",
-      "It will not be easy to find his peer.",
-      "He was created a peer of the UK in 2005."
+      "Love brings ecstasy and relieves loneliness.",
+      "Davidson's eyes shone with ecstasy.",
+      "His ecstasy to the pop music is unbelievable.",
+      "The drug is commonly known as Ecstasy.",
+      "Police arrested So during a drug raid last June at a Taipei pub, and urine tests showed that he had taken Ecstasy."
     ]
   },
   {
-    "spelling" : "peer",
-    "soundMark" : "[pɪr]",
-    "chineseMeaning" : "n. 同辈；同等的人；贵族; vi. 凝视；窥视;  ",
+    "spelling" : "flippancy",
+    "soundMark" : "['flɪpənsi]",
+    "chineseMeaning" : "n. 无礼；言语尖刻;  ",
     "examples" : [
-      "Children are easily influenced by their peers.",
-      "He was valued by both his peer and his superiors.",
-      "The opinions of his peers are more important to him than his parents' ideas.",
-      "It will not be easy to find his peer.",
-      "He was created a peer of the UK in 2005."
+
     ]
   },
   {
-    "spelling" : "pernicious",
-    "soundMark" : "[pər'nɪʃəs]",
-    "chineseMeaning" : "adj. 有害的；恶性的;  ",
+    "spelling" : "flit",
+    "soundMark" : "[flɪt]",
+    "chineseMeaning" : "v. 轻快地飞；掠过；搬家(尤指为躲债); n. 掠过；搬家;  ",
     "examples" : [
-      "This event had a pernicious influence on society.",
-      "Pollution of the water supply reached a level pernicious to the health of the population.",
-      "Lack of intrinsic factor can result in pernicious anemia."
+      "Fancies flitted through my mind.",
+      "I had to change schools every time my parents flitted."
     ]
   },
   {
-    "spelling" : "pernicious",
-    "soundMark" : "[pər'nɪʃəs]",
-    "chineseMeaning" : "adj. 有害的；恶性的;",
+    "spelling" : "glisten",
+    "soundMark" : "['ɡlɪsn]",
+    "chineseMeaning" : "v. 闪光；闪耀; n. 闪亮；闪耀;  ",
     "examples" : [
-      "This event had a pernicious influence on society.",
-      "Pollution of the water supply reached a level pernicious to the health of the population.",
-      "Lack of intrinsic factor can result in pernicious anemia."
+      "The street glistened in the rain.",
+      "Her eyes glistened with tears."
+    ]
+  },
+  {
+    "spelling" : "gloomy",
+    "soundMark" : "['ɡluːmi]",
+    "chineseMeaning" : "adj. 阴暗的；忧闷的；前景黯淡的;  ",
+    "examples" : [
+      "Being alone in that gloomy house gave me the willies.",
+      "A few faint gleams of sunshine lit up the gloomy afternoon.",
+      "Her smile is a breath of fresh air in this gloomy office.",
+      "There is a gloomy, overcast expression on his face.",
+      "She is always in that gloomy mood.",
+      "Share prices plunged as a result of the gloomy economic forecast.",
+      "The college graduate feels gloomy about his future."
+    ]
+  },
+  {
+    "examples" : [
+
+    ],
+    "chineseMeaning" : ""
+  },
+  {
+    "spelling" : "harness",
+    "soundMark" : "['hɑːrnɪs]",
+    "chineseMeaning" : "n. 马具；安全带；甲胄；系在身上的绳子; vt. 束以马具；披上甲胄；利用；管理；控制;  ",
+    "examples" : [
+      "Stirrup is an important part of harness.",
+      "You can not judge of the horse by the harness.",
+      "Safety harness is quite necessary in terms of the accidents.",
+      "The parachutist was buckled into his harness."
+    ]
+  },
+  {
+    "spelling" : "harry",
+    "soundMark" : "['hæri]",
+    "chineseMeaning" : "vt. 不断骚扰；打扰；侵扰；侵掠; n. 哈里（人名）;  ",
+    "examples" : [
+      "We have to harry him for money.",
+      "The tax authorities have been harrying her for repayment.",
+      "He was harried by constant bothering of his fans.",
+      "The army harried the enemy's border.",
+      "The Vikings used to harry the English coast."
+    ]
+  },
+  {
+    "spelling" : "rambunctious",
+    "soundMark" : "[ræm'bʌŋkʃəs]",
+    "chineseMeaning" : "adj. 粗暴的；喧闹的；放纵的;  ",
+    "examples" : [
+
+    ]
+  },
+  {
+    "spelling" : "rancor",
+    "soundMark" : "['ræŋkə]",
+    "chineseMeaning" : "n. 敌意；恨意;  ",
+    "examples" : [
+      "I know now that I could talk to the man who shot me and feel no rancor."
+    ]
+  },
+  {
+    "spelling" : "rant",
+    "soundMark" : "[rænt]",
+    "chineseMeaning" : "v. 咆哮；大声地说；激昂地说；大声斥责; n. 咆哮；夸夸其谈;  ",
+    "examples" : [
+      "The old man ranted that nobody paid any attention to his opinion.",
+      "You can rant and rave at the fine, but you'll still have to pay it.",
+      "This actor rants his lines.",
+      "He ranted at me about my mistakes.",
+      "The mother-in-law ranted at her daughter-in-law about her fondness for eating and aversion to work."
+    ]
+  },
+  {
+    "spelling" : "saunter",
+    "soundMark" : "['sɔːntər]",
+    "chineseMeaning" : "v. 闲逛；漫步; n. 闲逛；漫步;  ",
+    "examples" : [
+      "He sauntered by with his hands in his pockets.",
+      "Sometimes in the summer my wife and I saunter there in the cool of the evening."
+    ]
+  },
+  {
+    "spelling" : "savory",
+    "soundMark" : "['seɪvəri]",
+    "chineseMeaning" : "adj. 美味可口的；香辣的；令人愉快的；体面的; n. 香薄荷;  =savoury(英).;  ",
+    "examples" : [
+      "This restaurant is famous for its savory dishes.",
+      "Who said omelets have to be savory?",
+      "She has to live in a not very savory district.",
+      "This place doesn't have a very savory reputation."
+    ]
+  },
+  {
+    "spelling" : "scads",
+    "soundMark" : "[skædz]",
+    "chineseMeaning" : "n. 大量；巨额;  名词scad的复数形式.;  ",
+    "examples" : [
+      "Over the years, your brain has scored up scads of patterns, information that tells you that if one thing happens, something else is likely to follow."
+    ]
+  },
+  {
+    "spelling" : "scathing",
+    "soundMark" : "['skeɪðɪŋ]",
+    "chineseMeaning" : "adj. 严厉的；尖刻的;  动词scathe的现在分词形式.;  ",
+    "examples" : [
+      "He made a scathing attack on the statement.",
+      "It is a scathing tract on the uselessness of war.",
+      "He is given to making scathing remarks.",
+      "I think such a scathing attack on my idea was not necessary."
+    ]
+  },
+  {
+    "spelling" : "vapid",
+    "soundMark" : "['væpɪd]",
+    "chineseMeaning" : "adj. 索然无味的;  ",
+    "examples" : [
+      "The next issue is that reviewing is generally dull and vapid."
+    ]
+  },
+  {
+    "spelling" : "varnish",
+    "soundMark" : "['vɑːrnɪʃ]",
+    "chineseMeaning" : "n. 油漆；掩饰；光泽面；指甲油; v. 粉饰；涂油漆于；使光亮;  ",
+    "examples" : [
+      "The varnish was made to imitate wood grain.",
+      "She covers her selfishness with a varnish of good manners.",
+      "The hot plate may spoil the varnish on the table.",
+      "I chipped my nail varnish when I was cooking."
+    ]
+  },
+  {
+    "spelling" : "vaunt",
+    "soundMark" : "[vɔːnt]",
+    "chineseMeaning" : "v. 吹嘘; n. 炫耀;  ",
+    "examples" : [
+
     ]
   }
 ]
