@@ -2,7 +2,7 @@
   {
     "spelling" : "abase",
     "soundMark" : "[ə'beɪs]",
-    "chineseMeaning" : "v. 降低 ... 的地位；降低 ... 的品格；贬低;  ",
+    "chineseMeaning" : "v.贬低(地位)",
     "examples" : [
       "The president is not willing to abase himself before the nation."
     ]
@@ -10,7 +10,7 @@
   {
     "spelling" : "bracing",
     "soundMark" : "['breɪsɪŋ]",
-    "chineseMeaning" : "n. 撑杆；支撑; adj. 令人振奋的；提神的;  动词brace的现在分词.;  ",
+    "chineseMeaning" : "n. 撑杆;支撑; adj. 令人振奋的;提神的",
     "examples" : [
       "Transverse bracing was installed between the two shafts."
     ]
@@ -18,111 +18,83 @@
   {
     "spelling" : "eccentric",
     "soundMark" : "[ɪk'sentrɪk]",
-    "chineseMeaning" : "adj. 古怪的；反常的；不同圆心的; n. 怪人；[物]偏心轮;  ",
+    "chineseMeaning" : "adj. 古怪的; 怪人; 不同圆心的",
     "examples" : [
       "The old lady is a bit of an eccentric.",
-      "She put him down as an eccentric person.",
-      "His actions since that morning have been eccentric and unpredictable.",
-      "The motors and drive units on these two types of polisher's oscillate in an eccentric circular motion."
     ]
   },
   {
     "spelling" : "ecumenical",
     "soundMark" : "[ˌiːkjuː'menɪkl]",
-    "chineseMeaning" : "adj. 促进基督教不同教派大联合的；世界范围的；普遍的;  ",
+    "chineseMeaning" : "adj. 世界范围的; 普遍的;",
     "examples" : [
 
     ]
   },
   {
-    "examples" : [
-
-    ],
-    "chineseMeaning" : "n. 椭圆;  ",
-    "spelling" : "elipse"
-  },
-  {
     "spelling" : "flinch",
     "soundMark" : "[flɪntʃ]",
-    "chineseMeaning" : "v. 畏缩；退缩；畏首畏尾; n. 退缩；逃避;  ",
+    "chineseMeaning" : "v. 退缩;逃避;  ",
     "examples" : [
-      "Jane didn't flinch once when the doctor cleaned the cut in her arm.",
-      "Rex gently placed his armored hand on her shoulder, making her flinch from the cold hardness.",
       "You mustn't flinch from a difficulty."
     ]
   },
   {
     "spelling" : "flirt",
     "soundMark" : "[flɜːrt]",
-    "chineseMeaning" : "n. 调情的人；卖弄风骚的人; vi. 调情；玩弄；掠过；轻率对待; vt. 忽然弹出；摇动;  ",
+    "chineseMeaning" : "vt. 忽然弹出;摇动;  ",
     "examples" : [
-      "They say he's a terrible flirt.",
-      "Is Kelly a flirt, who goes from boy to boy?",
-      "She'll be fixed as the silliest flirt who ever made her family ridiculous."
     ]
   },
   {
     "spelling" : "flock",
     "soundMark" : "[flɑːk]",
-    "chineseMeaning" : "n. 一群；兽群；大堆；群众；羊群; v. 聚集；成群而行;  ",
+    "chineseMeaning" : "n. 兽群; v.成群而行;  ",
     "examples" : [
-      "There are many flocks of tourists in the palace.",
       "A flock of sheep poured through the gate.",
       "People came in flocks to see the royal procession.",
-      "A few sheep have been lost from the flock."
     ]
   },
   {
     "spelling" : "gloat",
     "soundMark" : "[ɡloʊt]",
-    "chineseMeaning" : "v. 满足地看；沾沾自喜；幸灾乐祸;  ",
+    "chineseMeaning" : "v. 沾沾自喜;幸灾乐祸;  ",
     "examples" : [
       "Chinese leaders have another reason not to gloat over the KMT's victory.",
       "Stop gloating just because you won the game!",
-      "It's nothing to gloat about.",
-      "I will not gloat over my enemies' predicatment before killing them."
     ]
   },
   {
     "spelling" : "gloss",
     "soundMark" : "[ɡlɑːs]",
-    "chineseMeaning" : "n. 光彩；光泽；虚饰; n. 注释；注解; v. 掩盖；（使）有光泽; v. 作注释;  ",
+    "chineseMeaning" : "n. 光泽; n. 注释; v. 掩盖;（使）有光泽;  ",
     "examples" : [
-      "The surface gloss had begun to crack.",
       "Repair your face, shine your gloss!",
       "With this polish you can give a good high gloss to the wood.",
-      "The gel gives your hair a gloss.",
-      "The gloss and glitter of Hollywood seemed fascinating to the girl.",
       "The minister has put a different gloss on recent developments.",
-      "The single word gloss was usually interlined.",
       "I couldn't understand the book without the gloss."
     ]
   },
   {
     "spelling" : "glut",
     "soundMark" : "[ɡlʌt]",
-    "chineseMeaning" : "n. 供过于求；过量; v. 使充满；过量供应;  ",
+    "chineseMeaning" : "n. 供过于求; v. 使充满;过量供应;  ",
     "examples" : [
       "The glut of fruit sent the prices down.",
-      "The glut of movie screens has also prompted the big chains to shutter their own historic theaters.",
-      "What's more, the glut of prohibitions is tantamount to treating the driver like a child and it also foments resentment.",
-      "What started out as a slight oversupply is turning into a full-blown supply glut which is sending shockwaves through the whole industry and which could take years to play out."
     ]
   },
   {
     "spelling" : "harrow",
     "soundMark" : "['hæroʊ]",
-    "chineseMeaning" : "n. 耙; vt. 耙掘；伤害；使苦恼;  ",
+    "chineseMeaning" : "n. 耙;伤害;使苦恼;  ",
     "examples" : [
       "The farmer's harrow was broken during his working.",
-      "I'll take the iron harrow to the field.",
-      "He is removing weeds with a harrow in the rice field."
     ]
   },
   {
     "spelling" : "ramshackle",
     "soundMark" : "['ræmʃækl]",
-    "chineseMeaning" : "adj. 要倒塌似的；摇摇欲坠的;  ",
+    "chineseMeaning" : "adj. 摇摇欲坠的;  ",
     "examples" : [
       "These ramshackle buildings have fallen down."
     ]
@@ -130,7 +102,7 @@
   {
     "spelling" : "rankle",
     "soundMark" : "['ræŋkl]",
-    "chineseMeaning" : "v. 化脓；发炎；惹怒；使痛苦;  ",
+    "chineseMeaning" : "v. 化脓;发炎;惹怒;使痛苦;  ",
     "examples" : [
 
     ]
@@ -138,24 +110,23 @@
   {
     "spelling" : "rapacious",
     "soundMark" : "[rə'peɪʃəs]",
-    "chineseMeaning" : "adj. 贪婪的；强夺的;  ",
+    "chineseMeaning" : "adj. 贪婪的;强夺的;  ",
     "examples" : [
       "Hawks and other rapacious birds prey on variety of small animals.",
-      "Mr Brown said there was also a global perspective to America's rapacious model of consumption."
     ]
   },
   {
     "spelling" : "savant",
     "soundMark" : "[sæ'vɑːnt]",
-    "chineseMeaning" : "n. 学者；专家;  ",
+    "chineseMeaning" : "n. 学者;专家;  ",
     "examples" : [
-      "The hypothesis can explain various characters going with idiot savant."
+      "Internet savant Aaron Swartz was found dead in his New York apartment on Friday from an apparent suicide."
     ]
   },
   {
     "spelling" : "savvy",
     "soundMark" : "['sævi]",
-    "chineseMeaning" : "v. 理解; n. 理解能力；悟性；常识; adj. 机智的；有常识的;  ",
+    "chineseMeaning" : "v. 理解; adj. 机智的",
     "examples" : [
       "Keep your mouth shut! Savvy?"
     ]
@@ -163,48 +134,31 @@
   {
     "spelling" : "scant",
     "soundMark" : "[skænt]",
-    "chineseMeaning" : "adj. 不充分的；不足的; v. 减缩；限制；忽略;  ",
+    "chineseMeaning" : "adj. 不充分的; v. 减缩;  ",
     "examples" : [
-      "Your attachment to substandard lodgings and scant tuition in Dover is clearly irrational."
+      "He looked like Ryan Gosling and dressed like a hipster, but there were scant details known about his life."
     ]
   },
   {
     "spelling" : "schism",
     "soundMark" : "['skɪzəm]",
-    "chineseMeaning" : "n. 分歧；分裂；分立；分派（教会）;  ",
+    "chineseMeaning" : "n. 分歧",
     "examples" : [
       "The Chinese-American schism poses a dilemma for the next president.",
-      "I shouldn't exaggerate the schism.",
-      "If another schism like that happen again, they will wind up in bankruptcy.",
-      "In this way, a deep American schism was born.",
-      "We are much too apt to look at schism in our church as an unmitigated evil."
-    ]
-  },
-  {
-    "spelling" : "vaporize",
-    "soundMark" : "['veɪpəraɪz]",
-    "chineseMeaning" : "v. （使）蒸发;  =vaporise（英）;  ",
-    "examples" : [
-      "The heat from the water is used to vaporize a low-boiling liquid.",
-      "Particles moving at these speeds vaporize if they hit any other material."
     ]
   },
   {
     "spelling" : "variance",
     "soundMark" : "['veriəns]",
-    "chineseMeaning" : "n. 不一致；变化；[数]方差;  ",
+    "chineseMeaning" : "n. 不一致;变化;[数]方差;  ",
     "examples" : [
-      "We are at variance about our lodger.",
-      "Variance between transeunt request and self judgement.",
-      "This theory is at variance with the known facts.",
       "I have felt the variance in temperature.",
-      "Analysis of variance was used for data analysis."
     ]
   },
   {
     "spelling" : "variegated",
     "soundMark" : "['verɪɡeɪtɪd]",
-    "chineseMeaning" : "adj. 杂色的；斑驳的；形形色色的;  动词variegate的过去式和过去分词形式.;  ",
+    "chineseMeaning" : "adj. 杂色的;斑驳的;形形色色的",
     "examples" : [
       "This specimen is richly variegated in colour.",
       "We're going to grow a variegated ivy up the back of the house.",
@@ -214,12 +168,8 @@
   {
     "spelling" : "vault",
     "soundMark" : "[vɔːlt]",
-    "chineseMeaning" : "n. 窖；穹；地下室；撑竿跳; vt. 做成圆拱形；撑竿跳跃; vi. 跳跃;  ",
+    "chineseMeaning" : "做成圆拱形 撑竿跳跃",
     "examples" : [
-      "He was buried in the family vault.",
-      "In medieval times, poets often called the sky \"the vault of heaven\".",
-      "She put her jewels in a vault at the bank.",
-      "This underground vault is theftproof.",
       "Our school won first place for the pole vault."
     ]
   }
