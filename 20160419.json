@@ -1,25 +1,219 @@
 [
-{"spelling":"bravado","soundMark":"[brə'vɑːdoʊ]","chineseMeaning":"n. 作威；虚张声势;  ","examples":["His bravado cost him the job.","He needs no bravado to mesmerize spectators."]},
-{"spelling":"brazen","soundMark":"['breɪzn]","chineseMeaning":"adj. 厚颜无耻的；明目张胆的；响而刺耳的；黄铜(制)的; v. 厚着脸皮做；使变得无耻；无耻地对待;  ","examples":["It was brazen of him to say so.","They showed a brazen disregard for her privacy.","The case of the pesticide plant reflects brazen discrimination.","He was startled by the brazen notes of the horns."]},
-{"spelling":"brevity","soundMark":"['brevəti]","chineseMeaning":"n. 短暂；简短；简洁;  ","examples":["Those who make the worst use of their time are the first to complain of its brevity.","That, and the relative brevity and insecurity of modern jobs, means your CV has to work harder than ever.","I decided that brevity would be as much appreciated as eloquence.","Its virtue resides in its clarity and brevity.","His style is characterized by brevity."]},
-{"spelling":"demagogue","soundMark":"['deməɡɑːɡ]","chineseMeaning":"n. 煽动者；蛊惑民心的政客;  ","examples":["The demagogue has won people's support.","It also exposed Mr Thaksin as a demagogue who is ready to incite a revolt from his Dubai redoubt."]},
-{"spelling":"demoralize","soundMark":"[dɪ'mɔːrəlaɪz]","chineseMeaning":"v. 使士气低落；使失去斗志;  ","examples":["The troops were thoroughly demoralized by this set-back.","Each attack is designed to demoralize our people and divide us from one another."]},
-{"spelling":"flounder","soundMark":"['flaʊndər]","chineseMeaning":"v. 挣扎；踌躇；笨拙而错乱地说或做; n. 挣扎；错乱的行动; n. 比目鱼；鲽;  ","examples":["His flounder in pain and sufferings dying."]},
-{"spelling":"flout","soundMark":"[flaʊt]","chineseMeaning":"v. 藐视；轻视；嘲笑; n. 嘲弄；轻视;  ","examples":["No one can flout the law with impunity.","They flouted all our offers of help and friendship.","The foolish boy flout his mother's advice."]},
-{"spelling":"fluky","soundMark":"['fluːki]","chineseMeaning":"adj. 侥幸的；幸中的；不可靠的;  ","examples":[]},
-{"spelling":"glutton","soundMark":"['ɡlʌtn]","chineseMeaning":"n. 贪吃者;  ","examples":["A glutton derives sensual pleasures from eating.","In the appeasement of the glutton they have to practise much stimulation."]},
-{"spelling":"gobble","soundMark":"['ɡɑːbl]","chineseMeaning":"vt. 狼吞虎咽；很快用完；发出咯咯叫声; n. 咯咯叫声;  ","examples":["As he was still hungry, he gobbled up a second sandwich.","She gobbled up all the relevant information.","The government seems to gobble up the taxpayers' money."]},
-{"spelling":"goldbrick","soundMark":"['ɡoʊldbrɪk]","chineseMeaning":"v. 偷懒；逃避义务；欺诈; n. 逃避义务的人；假金砖;  ","examples":["But this lance head gives us the feeling that it's not consistent because of the goldbrick."]},
-{"spelling":"gossamer","soundMark":"['ɡɑːsəmər]","chineseMeaning":"n. 小蜘蛛网；轻而弱者；薄纱; adj. 薄弱的；轻飘飘的;  ","examples":["They quickly stripped me of my clothes and bound me like a mummy in a gossamer web.","Gossamer is floating in calm air."]},
-{"spelling":"rapprochement","soundMark":"[ˌræproʊʃ'mɑːn]","chineseMeaning":"n. (友好关系)建立；(友好关系)恢复；和解;  ","examples":["Mr Brown has inherited the British-Libyan rapprochement engineered by Tony Blair.","There now seems little chance of rapprochement between the warring factions."]},
-{"spelling":"rapt","soundMark":"[ræpt]","chineseMeaning":"adj. 全神贯注的；入迷的；出神的;  ","examples":["We listened to her amazing story with rapt attention.","There was a rapt look on his face whenever he looked at his sweetheart.","The two of them lay rapt and attentive."]},
-{"spelling":"rash","soundMark":"[ræʃ]","chineseMeaning":"n. 疹子；大量; adj. 鲁莽的；轻率的;  ","examples":["While you have this rash you are still infectious.","A rash has appeared on his body.","The heat brought him out in a rash.","As soon as popular songs were accepted, fans appeared in a rash","Students made a rash of complaints."]},
-{"spelling":"scintillate","soundMark":"['sɪntlˌeɪt]","chineseMeaning":"v. 闪烁；发火花;  ","examples":[]},
-{"spelling":"scission","soundMark":"['sɪʒən]","chineseMeaning":"n. 切断；分离；分裂;  ","examples":[]},
-{"spelling":"scorch","soundMark":"[skɔːrtʃ]","chineseMeaning":"v. （使）烧焦；变焦；（使）枯萎; n. 烧焦;  ","examples":["Luckily, flashes of such strong radiation occur so far away they will not scorch our planet."]},
-{"spelling":"scotch","soundMark":"[skɑːtʃ]","chineseMeaning":"n. 伤口；刻痕; v. 粉碎；消灭；阻止;  ","examples":["The doctor scotched her false story.","Facts will eventually scotch these rumours."]},
-{"spelling":"scowl","soundMark":"[skaʊl]","chineseMeaning":"n. 愁容；皱眉; v. 皱眉；（天空）变阴沉晦暗;  ","examples":["That scowl he's wearing on his face should tell you so.","The boss manifested his disgust with a scowl."]},
-{"spelling":"vehement","soundMark":"['viːəmənt]","chineseMeaning":"adj. 感情强烈的；猛烈的;  ","examples":["They expressed a vehement protest.","He slammed the door with a vehement fury.","She made a vehement attack on the government's policies."]},
-{"spelling":"veneer","soundMark":"[və'nɪr]","chineseMeaning":"n. 薄片镶饰；虚饰或虚伪的外表; vt. 加薄片镶饰;  ","examples":["The furniture is made of plywood covered in teak veneer.","Much modern furniture is not solid but using a sandwich of wood veneer on plywood.","The panel had a veneer of gold and ivory.","He has a veneer of friendliness.","I considered him to be far more veneer than substance."]},
-{"spelling":"venial","soundMark":"['viːniəl]","chineseMeaning":"adj. 可原谅的；(错误等)轻微的;  ","examples":["The venial sins are relatively minor and more easily forgiven.","Her poverty had been a venial fault for two gallant gentlemen."]},
+  {
+    "spelling": "bravado",
+    "soundMark": "[brə'vɑːdoʊ]",
+    "chineseMeaning": "n. 作威;虚张声势;  ",
+    "examples": [
+      "His bravado cost him the job.",
+      "He needs no bravado to mesmerize spectators."
+    ]
+  },
+  {
+    "spelling": "brazen",
+    "soundMark": "['breɪzn]",
+    "chineseMeaning": "adj. 厚着脸皮的",
+    "examples": [
+      "It was brazen of him to say so.",
+      "They showed a brazen disregard for her privacy.",
+      "The case of the pesticide plant reflects brazen discrimination.",
+      "He was startled by the brazen notes of the horns."
+    ]
+  },
+  {
+    "spelling": "brevity",
+    "soundMark": "['brevəti]",
+    "chineseMeaning": "n. 短暂;简短;简洁;  ",
+    "examples": [
+      "Those who make the worst use of their time are the first to complain of its brevity.",
+      "That, and the relative brevity and insecurity of modern jobs, means your CV has to work harder than ever.",
+      "I decided that brevity would be as much appreciated as eloquence.",
+      "Its virtue resides in its clarity and brevity.",
+      "His style is characterized by brevity."
+    ]
+  },
+  {
+    "spelling": "demagogue",
+    "soundMark": "['deməɡɑːɡ]",
+    "chineseMeaning": "n. 煽动者",
+    "examples": [
+      "The demagogue has won people's support.",
+      "It also exposed Mr Thaksin as a demagogue who is ready to incite a revolt from his Dubai redoubt."
+    ]
+  },
+  {
+    "spelling": "demoralize",
+    "soundMark": "[dɪ'mɔːrəlaɪz]",
+    "chineseMeaning": "v. 降低士气",
+    "examples": [
+      "The troops were thoroughly demoralized by this set-back.",
+      "Each attack is designed to demoralize our people and divide us from one another."
+    ]
+  },
+  {
+    "spelling": "flounder",
+    "soundMark": "['flaʊndər]",
+    "chineseMeaning": "v. 挣扎;笨拙的做; 比目鱼",
+    "examples": [
+      "His flounder in pain and sufferings dying."
+    ]
+  },
+  {
+    "spelling": "flout",
+    "soundMark": "[flaʊt]",
+    "chineseMeaning": "v. 藐视;嘲笑",
+    "examples": [
+      "No one can flout the law with impunity.",
+      "They flouted all our offers of help and friendship.",
+      "The foolish boy flout his mother's advice."
+    ]
+  },
+  {
+    "spelling": "fluky",
+    "soundMark": "['fluːki]",
+    "chineseMeaning": "adj. 侥幸的",
+    "examples": [
+      
+    ]
+  },
+  {
+    "spelling": "glutton",
+    "soundMark": "['ɡlʌtn]",
+    "chineseMeaning": "n. 贪吃者;  ",
+    "examples": [
+      "A glutton derives sensual pleasures from eating.",
+      "In the appeasement of the glutton they have to practise much stimulation."
+    ]
+  },
+  {
+    "spelling": "gobble",
+    "soundMark": "['ɡɑːbl]",
+    "chineseMeaning": "vt. 狼吞虎咽;很快用完",
+    "examples": [
+      "As he was still hungry, he gobbled up a second sandwich.",
+      "She gobbled up all the relevant information.",
+      "The government seems to gobble up the taxpayers' money."
+    ]
+  },
+  {
+    "spelling": "goldbrick",
+    "soundMark": "['ɡoʊldbrɪk]",
+    "chineseMeaning": "v. 偷懒;逃避义务",
+    "examples": [
+      "But this lance head gives us the feeling that it's not consistent because of the goldbrick."
+    ]
+  },
+  {
+    "spelling": "gossamer",
+    "soundMark": "['ɡɑːsəmər]",
+    "chineseMeaning": "n. 小蜘蛛网;轻而弱者;薄纱; adj. 薄弱的;轻飘飘的;  ",
+    "examples": [
+      "They quickly stripped me of my clothes and bound me like a mummy in a gossamer web.",
+      "Gossamer is floating in calm air."
+    ]
+  },
+  {
+    "spelling": "rapprochement",
+    "soundMark": "[ˌræproʊʃ'mɑːn]",
+    "chineseMeaning": "n. 建立 恢复;和解;  ",
+    "examples": [
+      "Mr Brown has inherited the British-Libyan rapprochement engineered by Tony Blair.",
+      "There now seems little chance of rapprochement between the warring factions."
+    ]
+  },
+  {
+    "spelling": "rapt",
+    "soundMark": "[ræpt]",
+    "chineseMeaning": "adj. 全神贯注的;入迷的",
+    "examples": [
+      "We listened to her amazing story with rapt attention.",
+      "There was a rapt look on his face whenever he looked at his sweetheart.",
+      "The two of them lay rapt and attentive."
+    ]
+  },
+  {
+    "spelling": "rash",
+    "soundMark": "[ræʃ]",
+    "chineseMeaning": "n. 疹子;大量; adj. 鲁莽的;轻率的;  ",
+    "examples": [
+      "While you have this rash you are still infectious.",
+      "A rash has appeared on his body.",
+      "The heat brought him out in a rash.",
+      "As soon as popular songs were accepted, fans appeared in a rash",
+      "Students made a rash of complaints."
+    ]
+  },
+  {
+    "spelling": "scintillate",
+    "soundMark": "['sɪntlˌeɪt]",
+    "chineseMeaning": "v. 闪烁",
+    "examples": [
+      
+    ]
+  },
+  {
+    "spelling": "scission",
+    "soundMark": "['sɪʒən]",
+    "chineseMeaning": "n. 切断;分裂;  ",
+    "examples": [
+      
+    ]
+  },
+  {
+    "spelling": "scorch",
+    "soundMark": "[skɔːrtʃ]",
+    "chineseMeaning": "v. 烧焦;枯萎;  ",
+    "examples": [
+      "Luckily, flashes of such strong radiation occur so far away they will not scorch our planet."
+    ]
+  },
+  {
+    "spelling": "scotch",
+    "soundMark": "[skɑːtʃ]",
+    "chineseMeaning": "n. 伤口;粉碎;消灭;阻止;  ",
+    "examples": [
+      "The doctor scotched her false story.",
+      "Facts will eventually scotch these rumours."
+    ]
+  },
+  {
+    "spelling": "scowl",
+    "soundMark": "[skaʊl]",
+    "chineseMeaning": "n. 愁容;皱眉 ;  ",
+    "examples": [
+      "That scowl he's wearing on his face should tell you so.",
+      "The boss manifested his disgust with a scowl."
+    ]
+  },
+  {
+    "spelling": "vehement",
+    "soundMark": "['viːəmənt]",
+    "chineseMeaning": "adj. 感情强烈的;猛烈的;  ",
+    "examples": [
+      "They expressed a vehement protest.",
+      "He slammed the door with a vehement fury.",
+      "She made a vehement attack on the government's policies."
+    ]
+  },
+  {
+    "spelling": "veneer",
+    "soundMark": "[və'nɪr]",
+    "chineseMeaning": "n. 薄片镶饰;虚饰",
+    "examples": [
+      "The furniture is made of plywood covered in teak veneer.",
+      "Much modern furniture is not solid but using a sandwich of wood veneer on plywood.",
+      "The panel had a veneer of gold and ivory.",
+      "He has a veneer of friendliness.",
+      "I considered him to be far more veneer than substance."
+    ]
+  },
+  {
+    "spelling": "venial",
+    "soundMark": "['viːniəl]",
+    "chineseMeaning": "adj. 可原谅的 轻微的;  ",
+    "examples": [
+      "The venial sins are relatively minor and more easily forgiven.",
+      "Her poverty had been a venial fault for two gallant gentlemen."
+    ]
+  },
+  
 ]
